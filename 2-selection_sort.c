@@ -6,7 +6,6 @@
  */
 void selection_sort(int *array, size_t size)
 {
-
     size_t i, index;
     int minIndex, swap, swapsOccurred = 0;
 
